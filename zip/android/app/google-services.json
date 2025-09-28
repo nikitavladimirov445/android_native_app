@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80799443566",
+    "project_id": "nexus-dating-238a3",
+    "storage_bucket": "nexus-dating-238a3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80799443566:android:5992d9266aa8c908f2147f",
+        "android_client_info": {
+          "package_name": "com.nexusdating"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCDCVAKR40elAirplkXIUYyASPVH8lwn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
