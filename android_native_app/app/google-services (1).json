@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "80799443566",
+    "project_id": "nexus-dating-238a3",
+    "storage_bucket": "nexus-dating-238a3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80799443566:android:dbc0ffe2e763aa8ff2147f",
+        "android_client_info": {
+          "package_name": "Com.native_android_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80799443566-up94r4s1uss62nbtsmbj9kl8sn2v2d12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCDCVAKR40elAirplkXIUYyASPVH8lwn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80799443566-up94r4s1uss62nbtsmbj9kl8sn2v2d12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80799443566:android:0765f5a53a250bf3f2147f",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80799443566-up94r4s1uss62nbtsmbj9kl8sn2v2d12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCDCVAKR40elAirplkXIUYyASPVH8lwn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80799443566-up94r4s1uss62nbtsmbj9kl8sn2v2d12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80799443566:android:5992d9266aa8c908f2147f",
+        "android_client_info": {
+          "package_name": "com.nexusdating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80799443566-up94r4s1uss62nbtsmbj9kl8sn2v2d12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCDCVAKR40elAirplkXIUYyASPVH8lwn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80799443566-up94r4s1uss62nbtsmbj9kl8sn2v2d12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
