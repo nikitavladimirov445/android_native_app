@@ -1,1 +1,39 @@
-nexus.zip
+
+# Generic
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+out/
+.idea_modules/
+
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Android Studio & Gradle
+
+/android/app/src/main/assets/flutter_assets/
+android_native_app/gradle-8.2-bin.zip
+android_native_app/gradle-8.2/
+
+# SDKs and large files
+android_sdk/
+zulu17.48.15-ca-jdk17.0.10-linux_x64/
+commandlinetools.zip
+jdk17.tar.gz
