@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Converted App</string>
+    <string name="default_web_client_id" translatable="false">80799443566-up94r4s1uss62nbtsmbj9kl8sn2v2d12.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">80799443566</string>
+    <string name="google_api_key" translatable="false">AIzaSyBCDCVAKR40elAirplkXIUYyASPVH8lwn8</string>
+    <string name="google_app_id" translatable="false">1:80799443566:android:dbc0ffe2e763aa8ff2147f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBCDCVAKR40elAirplkXIUYyASPVH8lwn8</string>
+    <string name="google_storage_bucket" translatable="false">nexus-dating-238a3.firebasestorage.app</string>
+    <string name="project_id" translatable="false">nexus-dating-238a3</string>
+    <style name="Theme.MyConvertedApp" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+</resources>
