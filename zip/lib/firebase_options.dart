@@ -50,21 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCsUJFAGCUFIH6qSdaujt79N9pSqI09AFY',
-    appId: '1:80799443566:web:421b9a205d2e9871f2147f',
-    messagingSenderId: '80799443566',
-    projectId: 'nexus-dating-238a3',
-    authDomain: 'nexus-dating-238a3.firebaseapp.com',
-    storageBucket: 'nexus-dating-238a3.firebasestorage.app',
-    measurementId: 'G-H07VE27CPQ',
+    apiKey: 'AIzaSyC5OJnlm3nYO0TwuOe028OORrBqt9HBVhQ',
+    appId: '1:208151290313:web:548e96deaf5ccd25128818',
+    messagingSenderId: '208151290313',
+    projectId: 'androidnativeapp-50976',
+    authDomain: 'androidnativeapp-50976.firebaseapp.com',
+    storageBucket: 'androidnativeapp-50976.firebasestorage.app',
+    measurementId: 'G-0E84JMH3Y6',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBCDCVAKR40elAirplkXIUYyASPVH8lwn8',
-    appId: '1:80799443566:android:0765f5a53a250bf3f2147f',
-    messagingSenderId: '80799443566',
-    projectId: 'nexus-dating-238a3',
-    storageBucket: 'nexus-dating-238a3.firebasestorage.app',
+    apiKey: 'AIzaSyAhAheukwCW7oMtGG2SsPbH_INQ_tifAMU',
+    appId: '1:208151290313:android:2ab717e4e09efbdd128818',
+    messagingSenderId: '208151290313',
+    projectId: 'androidnativeapp-50976',
+    storageBucket: 'androidnativeapp-50976.firebasestorage.app',
   );
-
 }

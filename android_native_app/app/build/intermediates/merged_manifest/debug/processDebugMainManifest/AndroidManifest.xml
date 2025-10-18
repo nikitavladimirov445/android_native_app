@@ -29,7 +29,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyConvertedApp" >
         <activity
-            android:name="com.example.android_native_app.MainActivity"
+            android:name="com.example.myconvertedapp.MainActivity"
             android:exported="true"
             android:theme="@style/Theme.MyConvertedApp" >
             <intent-filter>

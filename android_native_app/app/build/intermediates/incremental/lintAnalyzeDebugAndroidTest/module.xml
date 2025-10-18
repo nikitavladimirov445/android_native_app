@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/home/user/myapp/android_native_app/app"
+    name=":app"
+    type="APP"
+    maven="MyConvertedApp:app:"
+    agpVersion="8.3.2"
+    buildFolder="build"
+    bootClassPath="/home/user/myapp/android_sdk/platforms/android-34/android.jar:/home/user/myapp/android_sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="debug"/>
+</lint-module>
